@@ -6,7 +6,6 @@ Developed a range of interactive installations using technologies including mach
 
 Research Topics: Robotics and Natural Language Processing.
 
-### My skills :woman_technologist:
 <table>
 <tbody>
  <tr>
@@ -101,19 +100,7 @@ Research Topics: Robotics and Natural Language Processing.
 <a href="https://github.com/Shreya549">
   <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/the_strange_concoction/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/shreya.chatterjee.31105674">
-  <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/shreyachatterje2">
-  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
 <br><br>
-
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 
 
 
@@ -142,20 +129,5 @@ Research Topics: Robotics and Natural Language Processing.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
 </a>
 **Shreya549/Shreya549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-----
-Credit: [Shreya549](https://github.com/Shreya549)
 
 Last Edited on: 23/09/2020
